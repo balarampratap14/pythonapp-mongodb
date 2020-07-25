@@ -1,0 +1,9 @@
+Flask
+bson
+Click               
+deepmerge           
+Faker               
+Jinja2             
+jsonmerge           
+jsonschema          
+pymongo             
